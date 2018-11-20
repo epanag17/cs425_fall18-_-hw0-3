@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+	<question>
+		<level>EASY</level>
+		<number>1</number>
+		<query>What does HTML stands for?</query>
+		<selections>
+			<selection>Hyper Text Markup Language</selection>
+			<selection>High Text Markup Language</selection>
+			<selection>Hyper Tabular Markup Language</selection>
+			<selection>None of these</selection>
+		</selections>
+		<answer>Hyper Text Markup Language</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>2</number>
+		<query>What does CSS stand for?</query>
+		<selections>
+			<selection>Creative Style Sheets</selection>
+			<selection>Cascading Style Sheets</selection>
+			<selection>Computer Style Sheets</selection>
+			<selection>Colorful Styles Sheets</selection>
+		</selections>
+		<answer>Cascading Style Sheets</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>3</number>
+		<query>What is HTML?</query>
+		<selections>
+			<selection>Programming Language</selection>
+			<selection>Scripting Language</selection>
+			<selection>Hypertext Library</selection>
+			<selection>Markup Language</selection>
+		</selections>
+		<answer>Markup Language</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>4</number>
+		<query>What is DOM?</query>
+		<selections>
+			<selection>Document Object Model</selection>
+			<selection>Definitive Object Model</selection>
+			<selection>Document Orientation Model</selection>
+		</selections>
+		<answer>Document Object Model</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>5</number>
+		<query>Of which main parts does the HTML file consist of?</query>
+		<selections>
+			<selection>Header and footer</selection>
+			<selection>Eyes and mouth</selection>
+			<selection>Head and body</selection>
+			<selection>Hands and feet</selection>
+		</selections>
+		<answer>Head and body</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>6</number>
+		<query>which of the following tag is used to mark a begining of paragraph ?</query>
+		<selections>
+			<selection>&lt;td&gt;</selection>
+			<selection>&lt;br&gt;</selection>
+			<selection>&lt;p&gt;</selection>
+			<selection>&lt;tr&gt;</selection>
+		</selections>
+		<answer>&lt;p&gt;</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>7</number>
+		<query>What is the correct extension for HTML files?</query>
+		<selections>
+			<selection>.css</selection>
+			<selection>.html</selection>
+			<selection>.txt</selection>
+			<selection>.exe</selection>
+		</selections>
+		<answer>.html</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>8</number>
+		<query>Where should you put the title tag?</query>
+		<selections>
+			<selection>Between the head tags</selection>
+			<selection>Before the html tag</selection>
+			<selection>Between the body tags</selection>
+			<selection>After the closing html tag</selection>
+		</selections>
+		<answer>Between the head tags</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>9</number>
+		<query>What tags are used to indicate headings?</query>
+		<selections>
+			<selection>Header</selection>
+			<selection>Head</selection>
+			<selection>Heading</selection>
+			<selection>h1-h6</selection>
+		</selections>
+		<answer>h1-h6</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>10</number>
+		<query>How do you insert a HTML comment?</query>
+		<selections>
+			<selection>&lt;!--This is a comment -- &gt;</selection>
+			<selection># This is a comment</selection>
+			<selection>// This is a comment</selection>
+			<selection>This is a comment</selection>
+		</selections>
+		<answer>&lt;!--This is a comment -- &gt;</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>11</number>
+		<query>General HTML elements consist of:</query>
+		<selections>
+			<selection>Only content</selection>
+			<selection>The body tag</selection>
+			<selection>Only tags</selection>
+			<selection>Opening tag, content, closing tag</selection>
+		</selections>
+		<answer>Opening tag, content, closing tag</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>12</number>
+		<query>What is the role of an attribute in HTML?</query>
+		<selections>
+			<selection>It serves just as a comment</selection>
+			<selection>It modifies the tag</selection>
+			<selection>The tag cannot have attributes</selection>
+			<selection>None of these</selection>
+		</selections>
+		<answer>It modifies the tag</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>13</number>
+		<query>What measurement units can be used for the width attribute?</query>
+		<selections>
+			<selection>Km and meter</selection>
+			<selection>No measurement units are used</selection>
+			<selection>Pixel and %</selection>
+			<selection>All existing measurement units</selection>
+		</selections>
+		<answer>Pixel and %</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>14</number>
+		<query>What attribute should be used to add an image url?</query>
+		<selections>
+			<selection>src</selection>
+			<selection>href</selection>
+			<selection>address</selection>
+			<selection>url</selection>
+		</selections>
+		<answer>src</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>15</number>
+		<query>What tag is used to create columns in a row?</query>
+		<selections>
+			<selection>li</selection>
+			<selection>tr</selection>
+			<selection>td</selection>
+			<selection>None of these</selection>
+		</selections>
+		<answer>td</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>16</number>
+		<query>The attribute of &lt;form&gt; tag?</query>
+		<selections>
+			<selection>Method</selection>
+			<selection>Action</selection>
+			<selection>Both a and b</selection>
+			<selection>None of these</selection>
+		</selections>
+		<answer>Both a and b</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>17</number>
+		<query>Web pages starts with which of the following tag?</query>
+		<selections>
+			<selection>&lt;body&gt;</selection>
+			<selection>&lt;html&gt;</selection>
+			<selection>&lt;title&gt;</selection>
+			<selection>&lt;form&gt;</selection>
+		</selections>
+		<answer>&lt;html&gt;</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>18</number>
+		<query>Which of the tag is used to creates a number list?</query>
+		<selections>
+			<selection>&lt;ul&gt;</selection>
+			<selection>&lt;ol&gt;</selection>
+			<selection>Both a and b</selection>
+			<selection>none of these</selection>
+		</selections>
+		<answer>&lt;ol&gt;</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>19</number>
+		<query>Main container for &lt;tr&gt;, &lt;td&gt;, &lt;th&gt; is</query>
+		<selections>
+			<selection>&lt;table&gt;</selection>
+			<selection>&lt;group&gt;</selection>
+			<selection>&lt;data&gt;</selection>
+			<selection>All of these</selection>
+		</selections>
+		<answer>&lt;table&gt;</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>20</number>
+		<query>The body tag usually used after</query>
+		<selections>
+			<selection>Title tag</selection>
+			<selection>Head tag</selection>
+			<selection>Em tag</selection>
+			<selection>form tag</selection>
+		</selections>
+		<answer>Head tag</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>21</number>
+		<query>Who is making the Web standards?</query>
+		<selections>
+			<selection>Mozilla</selection>
+			<selection>The World Wide Web Consortium</selection>
+			<selection>Google</selection>
+			<selection>Microsoft</selection>
+		</selections>
+		<answer>The World Wide Web Consortium</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>22</number>
+		<query>Choose the correct HTML element for the largest heading?</query>
+		<selections>
+			<selection>&lt;heading&gt;</selection>
+			<selection>&lt;h6&gt;</selection>
+			<selection>&lt;head&gt;</selection>
+			<selection>&lt;h1&gt;</selection>
+		</selections>
+		<answer>&lt;h1&gt;</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>23</number>
+		<query>What is the correct HTML element for inserting a line break?</query>
+		<selections>
+			<selection>&lt;br&gt;</selection>
+			<selection>&lt;lb&gt;</selection>
+			<selection>&lt;break&gt;</selection>
+			<selection>None of these</selection>
+		</selections>
+		<answer>&lt;br&gt;</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>24</number>
+		<query>Where in an HTML document is the correct place to refer to an external style sheet?</query>
+		<selections>
+			<selection>In the &lt;head&gt; section</selection>
+			<selection>In the &lt;body&gt; section</selection>
+			<selection>At the end of the document</selection>
+			<selection>None of these</selection>
+		</selections>
+		<answer>In the &lt;head&gt; section</answer>
+	</question>
+	
+	<question>
+		<level>EASY</level>
+		<number>25</number>
+		<query>Which HTML tag is used to define an internal style sheet?</query>
+		<selections>
+			<selection>&lt;script&gt;</selection>
+			<selection>&lt;css&gt;</selection>
+			<selection>&lt;style&gt;</selection>
+			<selection>&lt;sheet&gt;</selection>
+		</selections>
+		<answer>&lt;style&gt;</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>1</number>
+		<query>How can you open a link in a new browser window?</query>
+		<selections>
+			<selection>&lt; a href = &quot;url&quot; target = &quot;new&quot;&gt;</selection>
+			<selection>&lt;a href = &quot;url&quot; target= &quot;_blank&quot;&gt;</selection>
+			<selection>&lt;a href = &quot;url&quot;.new&gt;</selection>
+			<selection>&lt;a href = &quot;url&quot; target =&quot;open&quot;&gt;</selection>
+		</selections>
+		<answer>&lt;a href = &quot;url&quot; target= &quot;_blank&quot;&gt;</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>2</number>
+		<query>What is the correct HTML for referring to an external style sheet?</query>
+		<selections>
+			<selection>&lt;stylesheet&gt;mystyle.css&lt;/stylesheet&gt;</selection>
+			<selection>&lt;style src=&quot;mystyle.css&quot;&gt;</selection>
+			<selection>&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;mystyle.css&quot;&gt;</selection>
+			<selection>None of these</selection>
+		</selections>
+		<answer>&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;mystyle.css&quot;&gt;</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>3</number>
+		<query>How do you add a background color for all &lt;h1&gt; elements?</query>
+		<selections>
+			<selection>h1.all {background-color:#FFFFFF;}</selection>
+			<selection>h1 {background-color:#FFFFFF;}</selection>
+			<selection>all.h1 {background-color:#FFFFFF;}</selection>
+			<selection>None of these</selection>
+		</selections>
+		<answer>h1 {background-color:#FFFFFF;}</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>4</number>
+		<query>What is the correct CSS syntax for making all the &lt;p&gt; elements bold?</query>
+		<selections>
+			<selection>p {text-size:bold;}</selection>
+			<selection>&lt;p style=&quot;text-size:bold;&quot;&gt;</selection>
+			<selection>p {font-weight:bold;}</selection>
+			<selection>&lt;p style=&quot;font-size:bold;&quot;&gt;</selection>
+		</selections>
+		<answer>p {font-weight:bold;}</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>5</number>
+		<query>How do you display hyperlinks without an underline?</query>
+		<selections>
+			<selection>a {decoration:no-underline;}</selection>
+			<selection>a {text-decoration:none;}</selection>
+			<selection>a {text-decoration:no-underline;}</selection>
+			<selection>a {underline:none;}</selection>
+		</selections>
+		<answer>a {text-decoration:none;}</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>6</number>
+		<query>How do you make each word in a text start with a capital letter?</query>
+		<selections>
+			<selection>text-transform:capitalize</selection>
+			<selection>transform:capitalize</selection>
+			<selection>You can&apos;t do that with CSS</selection>
+			<selection>d.	text-style:captialize</selection>
+		</selections>
+		<answer>text-transform:capitalize</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>7</number>
+		<query>Which property is used to change the font of an element?</query>
+		<selections>
+			<selection>font-style</selection>
+			<selection>font-weight</selection>
+			<selection>font-family</selection>
+			<selection>none of these</selection>
+		</selections>
+		<answer>font-family</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>8</number>
+		<query>How do you display a border like this: The top border = 10 pixels,The bottom border = 5 pixels,The left border = 20 pixels, The right border = 1pixel?</query>
+		<selections>
+			<selection>border-width:5px 20px 10px 1px;</selection>
+			<selection>border-width:10px 1px 5px 20px;</selection>
+			<selection>border-width:10px 20px 5px 1px;</selection>
+			<selection>border-width:10px 5px 20px 1px;</selection>
+		</selections>
+		<answer>border-width:10px 1px 5px 20px;</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>9</number>
+		<query>How do you make a list that lists its items with squares?</query>
+		<selections>
+			<selection>list-style-type: square;</selection>
+			<selection>list-type: square;</selection>
+			<selection>list: square;</selection>
+			<selection>None of these</selection>
+		</selections>
+		<answer>list-style-type: square;</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>10</number>
+		<query>How do you select an element with id &quot;demo&quot;?</query>
+		<selections>
+			<selection>demo</selection>
+			<selection>.demo</selection>
+			<selection>*demo</selection>
+			<selection>#demo</selection>
+		</selections>
+		<answer>#demo</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>11</number>
+		<query>How do you select an element with class &quot;test&quot;?</query>
+		<selections>
+			<selection>test</selection>
+			<selection>.test</selection>
+			<selection>*test</selection>
+			<selection>#test</selection>
+		</selections>
+		<answer>.test</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>12</number>
+		<query>How do you select all p elements inside a div element?</query>
+		<selections>
+			<selection>div p</selection>
+			<selection>div + p</selection>
+			<selection>div.p</selection>
+			<selection>None of these</selection>
+		</selections>
+		<answer>div p</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>13</number>
+		<query>How do you group selectors?</query>
+		<selections>
+			<selection>Separate each selector with a space</selection>
+			<selection>Separate each selector with a comma</selection>
+			<selection>Separate each selector with a plus sign</selection>
+			<selection>None of these</selection>
+		</selections>
+		<answer>Separate each selector with a comma</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>14</number>
+		<query>What is the correct HTML for inserting a background image?</query>
+		<selections>
+			<selection>&lt;body bg=&quot;background.gif&quot;&gt;</selection>
+			<selection>&lt;body style=&quot;background-image:url(background.gif)&quot;&gt;</selection>
+			<selection>&lt;background img=&quot;background.gif&quot;&gt;</selection>
+			<selection>None of these</selection>
+		</selections>
+		<answer>&lt;body style=&quot;background-image:url(background.gif)&quot;&gt;</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>15</number>
+		<query>In HTML, you can embed SVG elements directly into an HTML page.</query>
+		<selections>
+			<selection>False</selection>
+			<selection>True</selection>
+		</selections>
+		<answer>True</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>16</number>
+		<query>The HTML global attribute, &quot;contenteditable&quot; is used to:</query>
+		<selections>
+			<selection>Specifies a context menu for an element. The menu appears when a user right-clicks on the element</selection>
+			<selection>Return the position of the first found occurrence of content inside a string</selection>
+			<selection>Specify whether the content of an element should be editable or not</selection>
+			<selection>Update content from the server</selection>
+		</selections>
+		<answer>Specify whether the content of an element should be editable or not</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>17</number>
+		<query>In HTML, onblur and onfocus are:</query>
+		<selections>
+			<selection>Style attributes</selection>
+			<selection>Event attributes</selection>
+			<selection>HTML elements</selection>
+			<selection>None of these</selection>
+		</selections>
+		<answer>Event attributes</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>18</number>
+		<query>The HTML &lt;canvas&gt; element is used to:</query>
+		<selections>
+			<selection>create draggable elements</selection>
+			<selection>display database records</selection>
+			<selection>manipulate data in MySQL</selection>
+			<selection>draw graphics</selection>
+		</selections>
+		<answer>draw graphics</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>19</number>
+		<query>In HTML, which attribute is used to specify that an input field must be filled out?</query>
+		<selections>
+			<selection>Validate</selection>
+			<selection>Placeholder</selection>
+			<selection>Formvalidate</selection>
+			<selection>Required</selection>
+		</selections>
+		<answer>Required</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>20</number>
+		<query>What color does the paragraph have?
+				&lt;style&gt;
+					Body{color:green;}
+					.mydiv {color:red;}
+				&lt;/style&gt;
+				&lt;body&gt;
+					&lt;div class=”mydiv”&gt;
+						&lt;p&gt;Some text&lt;/p&gt;
+					&lt;/div&gt;
+				&lt;/body&gt;		
+		</query>
+		<selections>
+			<selection>Green</selection>
+			<selection>Red</selection>
+			<selection>Black</selection>
+		</selections>
+		<answer>Red</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>21</number>
+		<query>From the three types of styling, which one is the most useful in terms of website optimization?</query>
+		<selections>
+			<selection>Inline</selection>
+			<selection>External</selection>
+			<selection>Internal</selection>
+		</selections>
+		<answer>External</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>22</number>
+		<query>What is the format of the value for text-shadow property?</query>
+		<selections>
+			<selection>Upper-left position down-right position blur color</selection>
+			<selection>Horizontal position vertical position blur color</selection>
+			<selection>Width height depth color</selection>
+		</selections>
+		<answer>Horizontal position vertical position blur color</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>23</number>
+		<query>If you give a negative value to the “top” property, in which direction will the box be moved?</query>
+		<selections>
+			<selection>Up</selection>
+			<selection>Left</selection>
+			<selection>Right</selection>
+			<selection>Down</selection>
+		</selections>
+		<answer>Up</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>24</number>
+		<query>If there is an element with a float property, which neighbor elements will be affected?</query>
+		<selections>
+			<selection>No element will be affected</selection>
+			<selection>The ones coming before that element</selection>
+			<selection>The ones coming after that element</selection>
+		</selections>
+		<answer>The ones coming after that element</answer>
+	</question>
+	
+	<question>
+		<level>MEDIUM</level>
+		<number>25</number>
+		<query>In order to make the z-index property work you must…</query>
+		<selections>
+			<selection>Position elements</selection>
+			<selection>Use the overflow property</selection>
+			<selection>Use floating</selection>
+			<selection>Clear floats</selection>
+		</selections>
+		<answer>Position elements</answer>
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>1</number>
+		<query>
+			What is the correct JavaScript syntax to change the content of the HTML element below?
+			&lt;p id=&quot;demo&quot;&gt;This is a demonstration.&lt;/p&gt;	
+		</query>
+		<selections>
+			<selection>document.getElementById(&quot;demo&quot;).innerHTML = &quot;Hello World!&quot;;</selection>
+			<selection>document.getElement(&quot;p&quot;).innerHTML = &quot;Hello World!&quot;;</selection>
+			<selection>#demo.innerHTML = &quot;Hello World!&quot;;</selection>
+			<selection>document.getElementByName(&quot;p&quot;).innerHTML = &quot;Hello World!&quot;;</selection>
+		</selections>
+		<answer>document.getElementById(&quot;demo&quot;).innerHTML = &quot;Hello World!&quot;;</answer>
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>2</number>
+		<query>The “this” keyword in the method means:</query>
+		<selections>
+			<selection>the name of the web page</selection>
+			<selection>the name of the given method</selection>
+			<selection>the current object</selection>
+		</selections>
+		<answer>the current object</answer>
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>3</number>
+		<query>Can a node in the DOM have multiple parent nodes?</query>
+		<selections>
+			<selection>No</selection>
+			<selection>Yes</selection>
+		</selections>
+		<answer>No</answer>
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>4</number>
+		<query>Which method is used to replace nodes?</query>
+		<selections>
+			<selection>replaceElements</selection>
+			<selection>replaceChild</selection>
+			<selection>replaceNodes</selection>
+		</selections>
+		<answer>replaceChild</answer>
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>5</number>
+		<query>
+			What is the interval for this timer?
+			var t = setInterval(func 10000);	
+		</query>
+		<selections>
+			<selection>1 second</selection>
+			<selection>100 seconds</selection>
+			<selection>10 seconds</selection>
+		</selections>
+		<answer>10 seconds</answer>
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>6</number>
+		<query>Which function is used to stop a setInterval timer?</query>
+		<selections>
+			<selection>clearTimer</selection>
+			<selection>clearInterval</selection>
+			<selection>stopInterval</selection>
+			<selection>stopTimer</selection>
+		</selections>
+		<answer>clearInterval</answer>
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>7</number>
+		<query>The type of function that executes when an event occurs is called?</query>
+		<selections>
+			<selection>Event function</selection>
+			<selection>Event name</selection>
+			<selection>Event handler</selection>
+			<selection>Event description</selection>
+		</selections>
+		<answer>Event handler</answer>
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>8</number>
+		<query>A paragraph is inside a div element. You want the paragraph’s click event to be handled first. You should use:</query>
+		<selections>
+			<selection>Bubbling</selection>
+			<selection>Handling</selection>
+			<selection>Capturing</selection>
+		</selections>
+		<answer>Bubbling</answer>
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>9</number>
+		<query>
+			What will be the content of the paragraph after the user clicks on it twice?
+			&lt;p id=’txt’ onclick=’test();’&gt;20&lt;/p&gt;
+			&lt;script&gt;
+				Function test(){
+					Var x = document.getElementById(‘txt’);
+					Var n = x.innerHTML;
+					x.innerHTML = n/2;
+				}
+			&lt;/script&gt;
+		</query>
+		<selections>
+			<selection>10</selection>
+			<selection>5</selection>
+			<selection>20</selection>
+		</selections>
+		<answer>5</answer>
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>10</number>
+		<query> 
+			What is the output of this code?
+			&lt;div id=”test”&gt;
+				&lt;p&gt;some text&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;script&gt;
+				Var el = document.getElementById(“test”);
+				Alert(el.hasChildNodes());
+			&lt;/script&gt;
+		</query>
+		<selections>
+			<selection>Undefined</selection>
+			<selection>True</selection>
+			<selection>False</selection>
+		</selections>
+		<answer>True</answer>
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>11</number>
+		<query>Which of the following is not superglobal variable?</query>
+		<selections>
+			<selection>$_SERVER</selection>
+			<selection>$_GET</selection>
+			<selection>$NUMBER</selection>
+			<selection>$_COOKIE</selection>
+		</selections>
+		<answer>$NUMBER</answer>	
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>12</number>
+		<query>What is the $_SERVER variable?</query>
+		<selections>
+			<selection>A function</selection>
+			<selection>An array</selection>
+			<selection>An integer</selection>
+			<selection>A string</selection>
+		</selections>
+		<answer>An array</answer>	
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>13</number>
+		<query>
+			Which method was used for the following URL?
+			http://www.aaa.com/index.php?id=825	
+		</query>
+		<selections>
+			<selection>POST</selection>
+			<selection>GET</selection>
+		</selections>
+		<answer>GET</answer>	
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>14</number>
+		<query>Which of the form submit methods should be chosen for a login page?</query>
+		<selections>
+			<selection>POST</selection>
+			<selection>GET</selection>
+		</selections>
+		<answer>POST</answer>	
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>15</number>
+		<query>How PHP files can be accessed?</query>
+		<selections>
+			<selection>Through HTML files</selection>
+			<selection>Through Web Server</selection>
+			<selection>Through Web Browser</selection>
+			<selection>All of above</selection>
+		</selections>
+		<answer>Through Web Server</answer>	
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>16</number>
+		<query>Data for a cookie stored in _____________ in PHP?</query>
+		<selections>
+			<selection>In User’s Computer</selection>
+			<selection>In Server Computer</selection>
+			<selection>In ISP Computer</selection>
+			<selection>It depends on PHP coding</selection>
+		</selections>
+		<answer>In User’s Computer</answer>	
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>17</number>
+		<query>PHP scripts are executed on _______________</query>
+		<selections>
+			<selection>Client Computer</selection>
+			<selection>Server Computer</selection>
+			<selection>ISP Computer</selection>
+			<selection>It depends on PHP script</selection>
+		</selections>
+		<answer>Server Computer</answer>	
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>18</number>
+		<query>The uses of strcmp() function in PHP?</query>
+		<selections>
+			<selection>It compare strings excluding case</selection>
+			<selection>It compare strings only Uppercase</selection>
+			<selection>It compare strings including case</selection>
+			<selection>It compare strings only lowercase</selection>
+		</selections>
+		<answer>It compare strings including case</answer>	
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>19</number>
+		<query>What does isset() function do in PHP?</query>
+		<selections>
+			<selection>It checks whether variable is set or not</selection>
+			<selection>It check whether variable is free or not</selection>
+			<selection>There is no such function in PHP</selection>
+			<selection>It checks whether variable is string or integer</selection>
+		</selections>
+		<answer>It checks whether variable is set or not</answer>	
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>20</number>
+		<query>What does the PHP Interpreter do?</query>
+		<selections>
+			<selection>It creates connection between ISP and Server</selection>
+			<selection>It processes the HTML and PHP files</selection>
+			<selection>It translates User Language to System Language</selection>
+			<selection>All of these</selection>
+		</selections>
+		<answer>It processes the HTML and PHP files</answer>	
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>21</number>
+		<query>What will be the result of combining a string with another data type in PHP?</query>
+		<selections>
+			<selection>float</selection>
+			<selection>string</selection>
+			<selection>int</selection>
+			<selection>double</selection>
+		</selections>
+		<answer>string</answer>	
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>22</number>
+		<query>Which of the following is the concatenation operator in PHP?</query>
+		<selections>
+			<selection>.(dot)</selection>
+			<selection>&amp; (Ampersand)</selection>
+			<selection>+ (plus)</selection>
+			<selection>% (percentage)</selection>
+		</selections>
+		<answer>.(dot)</answer>	
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>23</number>
+		<query>Which of the following statements prints in PHP?</query>
+		<selections>
+			<selection>write</selection>
+			<selection>echo</selection>
+			<selection>out</selection>
+			<selection>display</selection>
+		</selections>
+		<answer>echo</answer>	
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>24</number>
+		<query>What does the hash (#) sign mean in PHP?</query>
+		<selections>
+			<selection>It indicates variable declaration</selection>
+			<selection>It indicates function declaration</selection>
+			<selection>It indicates lines that are commented out</selection>
+			<selection>No uses in PHP</selection>
+		</selections>
+		<answer>It indicates lines that are commented out</answer>	
+	</question>
+	
+	<question>
+		<level>DIFFICULT</level>
+		<number>25</number>
+		<query>Who is the father of PHP Scripting Language?</query>
+		<selections>
+			<selection>William Makepiece</selection>
+			<selection>List Barely</selection>
+			<selection>Rasmus Lerdorf</selection>
+			<selection>Drek Kolkevi</selection>
+		</selections>
+		<answer>Rasmus Lerdorf</answer>	
+	</question>
+</questions>
